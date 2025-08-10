@@ -21,4 +21,4 @@ Package Tree provides package release note, tutorial video, article information 
 [back to git projects …](https://github.com/vietphan1995/projects)
 
 ### Notes
-https://six-zinc-ad4.notion.site/package-tree-1b25e832d6ee809ea64ec216359bb360
+https://phantrungviet.notion.site/package-tree-1b25e832d6ee809ea64ec216359bb360
