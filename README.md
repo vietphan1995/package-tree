@@ -1,6 +1,6 @@
 # package-tree
 
-# Package Tree
+## Package Tree
 
 ### Introduction
 
@@ -18,7 +18,7 @@ Package Tree can be interacted through remote website, local user interface, ter
 
 Package Tree provides package release note, tutorial video, article information for you also your project, suggests replacement, upgrade, downgrade package/s.
 
-[back to git projects …](https://github.com/vietphan1995/projects)
+### [back to git projects …](https://github.com/vietphan1995/projects)
 
 ### Notes
 https://phantrungviet.notion.site/package-tree-1b25e832d6ee809ea64ec216359bb360
